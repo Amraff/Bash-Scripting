@@ -1,0 +1,3 @@
+hello Raphew, its great to go over Bash-scripting
+Bash-scripting is a graet Automation tool
+hello, Good day to you
